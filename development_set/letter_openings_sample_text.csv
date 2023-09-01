@@ -1,0 +1,17 @@
+Pattern,Detected Text,Start Index
+"[»]?Einziggeliebt[er]?\s[A-Za-z]*[.!,]?","Einziggeliebte Josy! Was soll Albert anfangen, wenn du nicht willst! Wir glaubten, du seiest nicht so hart wie die übrig",3876
+"[»]?Geehrte[rsn]?\s[A-Za-z]*[.!,]?",»Geehrter Herr Hendlbadschi! Ihre Tragödie »Das Blutgericht« habe ich erhalten und sofort gelesen. Es ist mir ein ,15001
+"[»]?Sehr geehrte[srn]?\s[A-Za-z]*[.!,]?","Sehr geehrter Herr! Mein auf übermorgen festgesetzter Vortrag muß leider verschoben werden, da ich verreisen muß. Bitte",5556
+"[»]?Sehr geehrte[srn]?\s[A-Za-z]*[.!,]?","Sehr geehrte Frau! Bitte, erschrecken Sie nicht, wenn morgen Fräulein Dr. Lauterer statt meiner bei Ihnen Besuch macht",5782
+"[»]?Sehr geehrte[srn]?\s[A-Za-z]*[.!,]?","Sehr geehrter Herr Direktor! Hierdurch bitte ich Sie um die Erlaubnis, meine Tochter Rösi schon jetzt, acht Tage vor B",7048
+"[»]?Sehr geehrte[srn]?\s[A-Za-z]*[.!,]?","Sehr geehrte Frau! Wir wenden uns an Sie mit unserer Antwort auf eine Anfrage, die vor ungefähr einem Monat an unsere ",7408
+"[»]?\b(?!die\s+)Liebe\b\s[A-Za-z]*[.!,]?","Liebe Schwester! Ich weiß nicht, ob es Léon bekannt ist, daß Albert dasselbe Gesuch an uns stellt wie dein Mann. Es ",2627
+"[»]?\b(?!die\s+)Liebe\b\s[A-Za-z]*[.!,]?","Liebe arme Marie! Ich weiß nicht, ob dein Albert hier mit Léon zusammentreffen, oder ob er sich auch vor ihm v",2967
+"[»]?\b(?!die\s+)Liebe\b\s[A-Za-z]*[.!,]?","Liebe Adele! Mitfolgend den Hausschlüssel zum »Grauen Ackerstein«. Wir, das heißt die ganze Familie, reisen heut",4707
+"[»]?\b(?!die\s+)Liebe\b\s[A-Za-z]*[.!,]?",Liebe Schwester Erna! Die für morgen früh elf Uhr angesetzte Operation werde leider nicht ich ausführen – ich muß u,6260
+"[»]?\b(?!die\s+)Liebe\b\s[A-Za-z]*[.!,]?","»Liebe Adelaide! Meine Depeschen aus Krumstein und Detmarsdorf wirst Du erhalten haben, sowie auch mir Deine lieben ",11872
+"»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z.!,]*","»Lieber Hans! Es hat mir sehr leid gethan, so lange nichts von Ihnen zu hören, besonders leid, weil Sie Natek ver",20818
+"[»]?Geliebte[r]?[.!,]?","Geliebte teure Fifi! Eine arge Komplikation in Léons Geschäften ist eingetreten, und unübersehbare Wirren st",937
+"[»]?Einzig geliebteste[r]?[.!,]?","Einzig geliebteste Josefine! Zu dir komme ich in meiner Angst, weil ich niemand so vertrauen kann wie dir, Teure, Schw",1464
+"[»]?Einzig geliebte[r]?[.!,]?","Einzig geliebteste Josefine! Zu dir komme ich in meiner Angst, weil ich niemand so vertrauen kann wie dir, Teure, S",1464
+"[»]?Teure[sr]?\s[A-Za-z]*[.!,]?","Teure Schwester! Sei nicht hart! Es geht nicht anders! Die zwei Verfolgten haben sich zu beraten, und das kann unges",3345
