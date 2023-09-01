@@ -1,0 +1,34 @@
+Pattern,Detected Text,Start Index
+[»]?Mein[e]? [lL]iebe[rsn]?\s[A-Za-z]*[!],»Mein liebes Kind!« Der alte Junker trat näher an sie heran und dämpfte seine Stimme. »Du hast mir wahr und offenherzi,780999
+[»]?Mein[e]? [lL]iebe[rsn]?\s[A-Za-z]*[!],"Meine liebe Rose! Gestern sind wir zu Hause angekommen, nachdem wir eine wunderschöne kleine Reise gemacht haben. So ",4308528
+[»]?Mein[e]? [lL]iebe[rsn]?\s[A-Za-z]*[!],"»Mein lieber Paolo! Sieh, der Herr hier will uns noch viel mehr Geld geben, so daß wir sicher bald heiraten können.« »J",4680003
+[»]?Hochverehrte[rsn]?\s[A-Za-z]*[!],"»Hochverehrter Herr! Der ergebenst Unterzeichnete gibt sich die Ehre, Sie zu einer Besprechung einzuladen, betreffend ei",1353269
+"[»]?Geehrte[rsn]?\s[A-Za-z]*[.!,]?","»Geehrter Herr! Ich zeige Ihnen, der Sie immer so teilnehmend gegen uns gewesen sind, im eigenen und im Namen meine",3406170
+"[»]?Sehr verehrte[rs]?\s[A-Za-z]*[.!,]?","Sehr verehrter Herr! Ich bin unmöglich in der Lage, für alle verliebten Dummheiten meiner Frau aufzukommen, die dieselbe",4466941
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Bruder … verzeihe … aber du leugnest da etwas, was uns allen heilig sein sollte … Dies Geschlecht …« Der Pr",678126
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Doktor, manchmal sind Sie merkwürdig naiv! Wissen Sie nicht, daß das letzte bemerkenswerte Ereignis bei un",706535
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Freund! Ich kann nicht fort, sie lassen mich nicht. Sie lassen mir mein Kind nicht. Ich hab' es versucht un",941074
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Schrötter, wir bekommen nun eine Hausfrau. Ich habe mich verlobt.« »Ach Gott,« brachte Schrötter heraus,",1590471
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Liebes Kind, alles kommt auf die wirtschaftlichen Verhältnisse an. Und die sind: Baumann ist finanziell nicht i",1782941
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Freund! »Ich muß Ihnen mitteilen, daß vor drei Tagen mein geliebter Ätti sanft entschlafen ist. Vor einer S",2372193
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Papa, das geht nicht so schnell.« Ihr Vater stand mit einer zornigen Gebärde auf. Er machte, leise und u",3609147
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Freund, thu' mir den Gefallen und fange keinen Krakehl mit dem Professor an . . . . Das ist ein riesig bed",4423898
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,»Liebes Mädchen – wann kommst du wieder beichten? Morgen?« Als aber der Priester plötzlich den Anflug von Bar,5388995
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Mann! Bitte, spiel uns zum Tanz! Denn was ist eine Hochzeit ohne Tanz? Spielt nicht auch im Himmel Sankt ",5427061
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Liebes Kind, wenn schon für einen Mann, der August doch immerhin ist, diese Aufgabe zu schwer ist, wie viel meh",7034290
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Liebes Fräulein, die Gesetze dieser Erde sind von fehlbaren Menschen gemacht –« »Von schachernden Parteien si",7043366
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Liebes Kind, heutzutage ist alles möglich. Ich rate dir gut und väterlich, dein eigenes Leben zu leben und dich",7107157
+»Liebe[sr]+\s[A-Z][a-z\s]*[A-Za-z!]*,"»Lieber Reimar, als Gast hast Du den Vorzug, Fräulein von Wetter den Arm zu bieten!« lächelte Günther zurücktreten",7453444
+»Liebste[sr]?\s[A-Za-z]*[A-Za-z!]*,"»Liebstes Herz, was sind das für kindische Sorgen! Jetzt muß es Dir immer federleicht zu Mut sein, wie einer Lerch",3229790
+»Liebste[sr]?\s[A-Za-z]*[A-Za-z!]*,"»Liebste Gräfin,« schrieb Tante Renate, »ich halte es für meine Pflicht, Sie über die Vermögensverhältnisse mei",7951927
+[»]?Lieber Freund[!],"»Lieber Freund! Ich kann nicht fort, sie lassen mich nicht. Sie lassen mir mein Kind nicht. Ich hab' es versucht un",941074
+[»]?Lieber Freund[!],"»Lieber Freund! »Ich muß Ihnen mitteilen, daß vor drei Tagen mein geliebter Ätti sanft entschlafen ist. Vor einer S",2372193
+[»]?Geliebteste[r]?[!],"»Geliebtester! Wie hasse ich den Frühling. Es ist eine unerträgliche Jahreszeit. Ja, ich hasse sie. Weil es zwisch",1317179
+[»]?Geliebte[r][!],Geliebter! * * * Ich schlafe. Da höre ich ein Lied durch die Nacht. Ich springe auf – wo ist ein Mantel? – und,204441
+[»]?Geliebte[r][!],Geliebter!« Ungefähr um dieselbe Zeit sah Mansuet den guten Schimmelreiter mit ganz verstörtem Gesicht aus dem,3463715
+[»]?Geliebte[r][!],"Geliebter! Übermorgen, wenn ich von Tlalpam zurückkomme, schreibe ich Dir wieder und sende Dir Nachricht durch",4934354
+[»]?Geliebte[!],"Geliebte! sie war es!« Mansuet kannte sich nicht mehr. »Bestie!« kreischte er, riß ein Messer vom Tische und ",3482157
+[»]?Geliebte[!],"»Geliebte!« »Hebe die blutbefleckten Hände nicht! Laß mich entflattern, beflecke meine weißen Flügel nicht! Bi",5508250
+"[»]?Mein geliebte[rs]?\s[A-Za-z]*[.!,]?","»Mein geliebtes Kind, Du hattest, wie erinnerlich, meinen Mann und mich, Deine Mutter, zu übermorgen zu Tisch gebeten. Wi",1786410
+"[»]?Teuerste[sr]?\s[A-Za-z]*[.!,]?",Teuerste auf der Karte. Nichts dünkt ihm für uns gut genug. Wenn er nur nicht gar so besorgt wäre! Jeden Moment ,215717
+"[»]?Teure[sr]?\s[A-Za-z]*[.!,]?","Teure hochverehrte Frau! Ihnen darf nicht eine gedruckte Karte das Glück verkünden, das Gott mir beschert hat. bei Ihn",4313889
